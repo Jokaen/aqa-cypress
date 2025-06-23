@@ -1,0 +1,23 @@
+{
+  "name": "aqa-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Jokaen/aqa-cypress#readme",
+  "bugs": {
+    "url": "https://github.com/Jokaen/aqa-cypress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokaen/aqa-cypress.git"
+  },
+  "license": "ISC",
+  "author": "Jokaen",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
